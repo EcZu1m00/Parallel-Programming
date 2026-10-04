@@ -1,0 +1,3 @@
+Matrix size: 3 x 3
+Task size: 54 arithmetic operations
+Execution time: 0.007700 ms
